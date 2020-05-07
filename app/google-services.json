@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922134528390",
+    "firebase_url": "https://harshita-c0ffb.firebaseio.com",
+    "project_id": "harshita-c0ffb",
+    "storage_bucket": "harshita-c0ffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922134528390:android:71bec876e5da85c990ac07",
+        "android_client_info": {
+          "package_name": "com.example.harshita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922134528390-4n8osqa8ja6t2h3mkb8p6gk2s35fsg0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnKfYYvqZUHi3jAwWGSt3_r8jPEqC2uM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922134528390-4n8osqa8ja6t2h3mkb8p6gk2s35fsg0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
